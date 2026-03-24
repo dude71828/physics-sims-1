@@ -1,5 +1,13 @@
 # physics-sims
 
+## 2D wave
+
+
+
+Mostly copied from: https://scipython.com/blog/the-two-dimensional-wave-equation/
+
+2D wave simulation using finite differences method to calculate derivatives. Allows for Dirichlet (fully reflecting) and Mur (the wave just passes through) boundary conditions. Added damping term and a few different wave sources. 
+
 ## water hose (inspired by EuPhO 2019 T3)
 
 https://github.com/user-attachments/assets/c4f52ead-d779-4a45-80b0-418f4c7c7f62
