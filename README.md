@@ -2,7 +2,7 @@
 
 ## 2D wave
 
-
+https://github.com/dude71828/physics-sims-1/blob/main/2dwave_compressed.gif
 
 Mostly copied from: https://scipython.com/blog/the-two-dimensional-wave-equation/
 
